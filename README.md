@@ -2,7 +2,7 @@
 <p align="left"> <a href="https://twitter.com/fazal_mansuri_" target="_blank"><img src="https://img.shields.io/twitter/follow/fazal_mansuri_?logo=twitter&style=for-the-badge" alt="fazal" /></a> </p>
 
 # 💫 About Me:
-👨‍💻 I’m currently working on Full Stack Development<br><br>🖥️ I’m currently learning Machine-Learning<br><br>👯 I’m looking to collaborate on MERN stack <br><br>💬 Ask me about ReactJS, Nodejs, Express, REST APIs and Machine Learning
+👨‍💻 I’m currently working on Full Stack Development<br><br>🖥️ I’m currently exploring Machine-Learning<br><br>👯 I’m looking to collaborate on MERN stack <br><br>💬 Ask me about ReactJS, Nodejs, Express, REST APIs and Machine Learning.
 
 
 ## 🌐 Socials:
