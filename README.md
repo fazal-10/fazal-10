@@ -4,6 +4,9 @@
 # 💫 About Me:
 👨‍💻 I’m currently working on Full Stack Development<br>👯 I’m looking to collaborate on MERN stack<br>💬 Ask me about Go lang, ReactJS, Nodejs, Express and REST APIs.
 
+## Follow me on CoderLegion
+[![CoderLegion Stats](https://coderlegion.com/profile-stats-badge/fazal_mansuri_.svg)](https://coderlegion.com/user/fazal_mansuri_)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fazal_mansuri__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fazal-mansuri) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@fazalmansuri08) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/fazal_mansuri_) [![Dev](https://img.shields.io/badge/Dev-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://dev.to/fazal_mansuri_)
